@@ -1,6 +1,3 @@
-##Modifizierer
+##Bib Demo Projekt
 
-- public
-- internal
-- protected
-- private
+Diese Projekt beinhalte einige einfache Vorlageklassen, welche die Grundlage für die Schulung bilden können.
